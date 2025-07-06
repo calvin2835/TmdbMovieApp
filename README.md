@@ -19,6 +19,8 @@ Walkthrough
    npx expo start
    ```
 
+3. To run this application, please create an account in themoviedb and replace your API token in **.env** file 
+
 In the output, you'll find options to open the app in a
 
 - [development build](https://docs.expo.dev/develop/development-builds/introduction/)
